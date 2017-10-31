@@ -1,0 +1,2 @@
+# minapp
+Techgogogo Wechat App
